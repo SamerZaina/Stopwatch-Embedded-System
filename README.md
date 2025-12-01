@@ -40,9 +40,7 @@ Press Stop → counter freezes
 
 Press Resume → continues from last stored time
 
-✔ Documentation
 
-Full project details available in /documentation/Embedded_System_Project.pdf.
 
 ✔ Author
 
