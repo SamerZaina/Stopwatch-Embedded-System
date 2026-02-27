@@ -1,47 +1,95 @@
-📌 Stopwatch Embedded System Project
+---
 
-A simple stopwatch system implemented using the LPC1114FBD48/301 ARM Cortex-M0 microcontroller, programmed in C, and simulated using Proteus Professional 8.9.
+# ⏱️ Stopwatch Embedded System Project
 
-✔ Features
+## 📌 Project Overview
 
-Start / Stop / Resume stopwatch
+This project implements a **digital stopwatch embedded system** using the **LPC1114FBD48/301 (ARM Cortex-M0)** microcontroller.
+The system is programmed in **C language** and simulated using **Proteus Professional 8.9**.
 
-Displays time in HH : MM : SS format
+The stopwatch supports **Start, Stop, and Resume** operations with long-press button detection and displays time in **HH : MM : SS** format.
 
-Long-press button detection
+---
 
-Clean modular C code
+## 🖼️ Project Images
 
-Fully working Proteus simulation
+### 🔹 1️⃣ General Shot of the Project
 
-✔ Hardware Used
+![General Shot](ImagesFromProject/1 - general shot for the project .png)
 
-LPC1114FBD48/301 microcontroller
+---
 
-Virtual terminal / LCD
+### 🔹 2️⃣ Before Running
 
-Push buttons
+![Before Running](ImagesFromProject/2 _ before running .png)
 
-Oscillator + power circuit
+---
 
-✔ Software Used
+### 🔹 3️⃣ After Pressing Run
 
-Proteus Professional 8.9
+![After Run](ImagesFromProject/3 _ after press on run.png)
 
-ARM GCC / Keil / LPCXpresso (any C compiler)
+---
 
-GitHub for version control
+### 🔹 4️⃣ After Pressing Stop
 
-✔ How It Works
+![After Stop](ImagesFromProject/4_ after press on stop button.png)
 
-Press Start → stopwatch begins counting
+---
 
-Press Stop → counter freezes
+### 🔹 5️⃣ After Pressing Resume
 
-Press Resume → continues from last stored time
+![After Resume Button](ImagesFromProject/5_after press on resumed button.png)
+
+---
+
+### 🔹 6️⃣ After Resume (Running Again)
+
+![After Resume Running](ImagesFromProject/6_after resume.png)
+
+---
+
+## ✔ Features
+
+* Start / Stop / Resume stopwatch
+* Displays time in **HH : MM : SS** format
+* Long-press button detection
+* Clean and modular C code
+* Fully working Proteus simulation
+
+---
+
+## ✔ Hardware Used
+
+* LPC1114FBD48/301 Microcontroller (ARM Cortex-M0)
+* Virtual Terminal / LCD Display
+* Push Buttons
+* Oscillator + Power Circuit
+
+---
+
+## ✔ Software Used
+
+* Proteus Professional 8.9
+* ARM GCC / Keil / LPCXpresso (C compiler)
+* GitHub for version control
+
+---
+
+## ⚙️ How It Works
+
+* Press **Start** → Stopwatch begins counting
+* Press **Stop** → Counter freezes
+* Press **Resume** → Continues from last stored time
+
+The microcontroller handles timing using internal timers and button state detection logic to manage system states efficiently.
+
+---
+
+## 👨‍💻 Author
+
+**ENG: Samer Alaa Abu Zaina**
+
+---
 
 
-
-✔ Author
-
-ENG: Samer Alaa Abu Zaina
