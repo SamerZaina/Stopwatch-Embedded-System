@@ -1,3 +1,5 @@
+
+
 ---
 
 # ⏱️ Stopwatch Embedded System Project
@@ -15,37 +17,37 @@ The stopwatch supports **Start, Stop, and Resume** operations with long-press bu
 
 ### 🔹 1️⃣ General Shot of the Project
 
-![General Shot](ImagesFromProject/1 - general shot for the project .png)
+![General Shot](ImagesFromProject/1%20-%20general%20shot%20for%20the%20project%20.png)
 
 ---
 
 ### 🔹 2️⃣ Before Running
 
-![Before Running](ImagesFromProject/2 _ before running .png)
+![Before Running](ImagesFromProject/2%20_%20before%20running%20.png)
 
 ---
 
 ### 🔹 3️⃣ After Pressing Run
 
-![After Run](ImagesFromProject/3 _ after press on run.png)
+![After Run](ImagesFromProject/3%20_%20after%20press%20on%20run.png)
 
 ---
 
 ### 🔹 4️⃣ After Pressing Stop
 
-![After Stop](ImagesFromProject/4_ after press on stop button.png)
+![After Stop](ImagesFromProject/4_%20after%20press%20on%20stop%20button.png)
 
 ---
 
 ### 🔹 5️⃣ After Pressing Resume
 
-![After Resume Button](ImagesFromProject/5_after press on resumed button.png)
+![After Resume Button](ImagesFromProject/5_after%20press%20on%20resumed%20button.png)
 
 ---
 
 ### 🔹 6️⃣ After Resume (Running Again)
 
-![After Resume Running](ImagesFromProject/6_after resume.png)
+![After Resume Running](ImagesFromProject/6_after%20resume.png)
 
 ---
 
@@ -91,5 +93,4 @@ The microcontroller handles timing using internal timers and button state detect
 **ENG: Samer Alaa Abu Zaina**
 
 ---
-
 
